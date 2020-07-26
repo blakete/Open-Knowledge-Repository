@@ -11,5 +11,5 @@ MVP: Fuzzy search of highlight database documents. Results must be in tiling car
 ## Requirements
 - [Download Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio?hl=en)
 
-
-
+## References
+- [Causal Entropic Forces](https://www.alexwg.org/publications/PhysRevLett_110-168702.pdf)
