@@ -1,5 +1,5 @@
 # Open-Knowledge-Repository (OKR)
-Open source tool to share knowledge across teams.
+Open source tool to share knowledge across teams, organizations, and the world.
 
 Basis:
 1. Entropy will always increase
