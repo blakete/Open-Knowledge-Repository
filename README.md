@@ -5,3 +5,8 @@ MVP: Fuzzy search of highlight database documents. Results must be in tiling car
 
 ## Requirements
 - [Download Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio?hl=en)
+
+Basis:
+1. Entropy will always increase
+2. Collective increase in intelligence results in a larger field of future possibilities.
+3. 
