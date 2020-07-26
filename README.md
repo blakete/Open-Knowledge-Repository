@@ -3,7 +3,7 @@ Open source tool to share knowledge across teams, organizations, and the world.
 
 ## Basis:
 1. Entropy will always increase
-2. Collective increase in intelligence results in a larger field of future possibilities.
+2. Collective increase in intelligence results in a larger field of potential future states.
 3. An increase in potential future states increases entropy.
 
 ## MVP: 
