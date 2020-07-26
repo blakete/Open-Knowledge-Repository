@@ -9,4 +9,4 @@ MVP: Fuzzy search of highlight database documents. Results must be in tiling car
 Basis:
 1. Entropy will always increase
 2. Collective increase in intelligence results in a larger field of future possibilities.
-3. 
+3. An increase in potential future states increases entropy.
