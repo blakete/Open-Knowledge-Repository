@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Knowledge Repository</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/static/css/styles.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="/static/js/controller.js"></script>
+    </head>
+
+    <body>
+        <nav class="navbar navbar-dark bg-dark">
+            <a class="active" href="https://github.com/blakete/Open-Knowledge-Repository">OKR</a>
+            <div class="search-container">
+                <input type="search" id="search-text" placeholder="Search..." name="search" autofocus>
+                <button id="search-button" onclick="query()">Search</button>
+            </div>
+        </nav>
+  
+        <ol id="accordion" class="accordian-list">
+        
+        </ol>
+        <script>
+            if (document.getElementById('search-text').value && !document.getElementById('search-text').value.trim()) {
+                document.getElementById('search-button').click();
+            }
+            document.getElementById('search-text').onkeypress = function(event){
+                if(event.keyCode==13){
+                    // alert("click!")
+                    document.getElementById('search-button').click();
+                }
+            }
+        </script>
+    </body>
+
+</html>

@@ -1,5 +1,5 @@
 
-
+import sys
 from pymongo import MongoClient
 # pprint library is used to make the output look more pretty
 from pprint import pprint
@@ -13,7 +13,7 @@ x = mycol.find_one()
 print(x)
 
 mycol.create_index([('text', 'text'), ('match', 'text'), ('title', 'text')])
-cursor = mycol.find({"$text": {"$search": "mongo search"}}).limit(3)
+cursor = mycol.find({"$text": {"$search": "hello mongo"}})
 
 for doc in cursor:
     print(doc)
