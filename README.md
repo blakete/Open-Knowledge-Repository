@@ -8,10 +8,15 @@ Open source tool to share knowledge across teams, organizations, and the world.
 4. An increase in potential future states increases entropy.
 
 ## Install and Usage
-Execute this command to download OKR:
+Execute the following commands to download and run OKR:
 ```
+# install
 git clone git@github.com:blakete/Open-Knowledge-Repository.git
-```
+# go into install directory
+cd Open-Knowledge-Repository
+# run OKR
+TODO
+``'
 
 
 ## Requirements
