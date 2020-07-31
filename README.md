@@ -7,10 +7,15 @@ Open source tool to share knowledge across teams, organizations, and the world.
 3. Collective increase in intelligence results in a larger field of potential future states.
 4. An increase in potential future states increases entropy.
 
-## MVP: 
-- Fuzzy search of highlight database documents. Results must be in tiling card list format containing highlights with Red highlight and all others in ascending date order below.
+## Install and Usage
+Execute this command to download OKR:
+```
+git clone git@github.com:blakete/Open-Knowledge-Repository.git
+```
+
 
 ## Requirements
+- [Download and install Docker](https://docs.docker.com/get-docker/)
 - [Download Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio?hl=en)
 
 ## References
