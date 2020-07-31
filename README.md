@@ -12,11 +12,13 @@ Execute the following commands to download and run OKR:
 ```
 # install
 git clone git@github.com:blakete/Open-Knowledge-Repository.git
+
 # go into install directory
 cd Open-Knowledge-Repository
+
 # run OKR
 TODO
-``'
+```
 
 
 ## Requirements
