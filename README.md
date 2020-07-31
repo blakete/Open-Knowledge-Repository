@@ -3,7 +3,7 @@ Open source tool to share knowledge across teams, organizations, and the world.
 
 ## Basis:
 1. Do not fight the laws of the universe, work with them.
-2. Entropy will always increase
+2. Entropy will always increase.
 3. Collective increase in intelligence results in a larger field of potential future states.
 4. An increase in potential future states increases entropy.
 
